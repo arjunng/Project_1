@@ -1,0 +1,194 @@
+country,beer_servings,spirit_servings,wine_servings,total_litres_of_pure_alcohol,continent
+Namibia,376,3,1,6.8,Africa
+Czech Republic,361,170,134,11.8,Europe
+Gabon,347,98,59,8.9,Africa
+Germany,346,117,175,11.3,Europe
+Lithuania,343,244,56,12.9,Europe
+Poland,343,215,56,10.9,Europe
+Venezuela,333,100,3,7.7,South America
+Ireland,313,118,165,11.4,Europe
+Palau,306,63,23,6.9,Oceania
+Romania,297,122,167,10.4,Europe
+Belgium,295,84,212,10.5,Europe
+Panama,285,104,18,7.2,North America
+Spain,284,157,112,10,Europe
+Serbia,283,131,127,9.6,Europe
+Latvia,281,216,62,10.5,Europe
+Austria,279,75,191,9.7,Europe
+Slovenia,270,51,276,10.6,Europe
+Belize,263,114,8,6.8,North America
+Finland,263,133,97,10,Europe
+Australia,261,72,212,10.4,Oceania
+Netherlands,251,88,190,9.4,Europe
+USA,249,158,84,8.7,North America
+Russian Federation,247,326,73,11.5,Asia
+Andorra,245,138,312,12.4,Europe
+Brazil,245,145,16,7.2,South America
+Canada,240,122,100,8.2,North America
+Mexico,238,68,5,5.5,North America
+Luxembourg,236,133,271,11.4,Europe
+Hungary,234,215,185,11.3,Europe
+Iceland,233,61,78,6.6,Europe
+Bulgaria,231,252,94,10.3,Europe
+Croatia,230,87,254,10.2,Europe
+South Africa,225,76,81,8.2,Africa
+Denmark,224,81,278,10.4,Europe
+Estonia,224,194,59,9.5,Europe
+United Kingdom,219,126,195,10.4,Europe
+Angola,217,57,45,5.9,Africa
+Paraguay,213,117,74,7.3,South America
+Ukraine,206,237,45,8.9,Europe
+New Zealand,203,79,175,9.3,Oceania
+Grenada,199,438,28,11.9,North America
+Trinidad & Tobago,197,156,7,6.4,North America
+Slovakia,196,293,116,11.4,Europe
+Portugal,194,67,339,11,Europe
+St. Kitts & Nevis,194,205,32,7.7,North America
+Argentina,193,25,221,8.3,South America
+Dominican Republic,193,147,9,6.2,North America
+Cyprus,192,154,113,8.2,Europe
+Niue,188,200,7,7,Oceania
+Switzerland,185,100,280,10.2,Europe
+Botswana,173,35,35,5.4,Africa
+St. Lucia,171,315,71,10.1,North America
+Norway,169,71,129,6.7,Europe
+Bolivia,167,41,8,3.8,South America
+Peru,163,160,21,6.1,South America
+Ecuador,162,74,3,4.2,South America
+Colombia,159,76,3,4.2,South America
+Seychelles,157,25,51,4.1,Africa
+Sweden,152,60,186,7.2,Europe
+Costa Rica,149,87,11,4.4,North America
+Malta,149,100,120,6.6,Europe
+Cameroon,147,1,4,5.8,Africa
+Cabo Verde,144,56,16,4,Africa
+Barbados,143,173,36,6.3,North America
+Belarus,142,373,42,14.4,Europe
+South Korea,140,16,9,9.8,Asia
+Greece,133,112,218,8.3,Europe
+Chile,130,124,172,7.6,South America
+Suriname,128,178,7,5.6,South America
+France,127,151,370,11.8,Europe
+Kazakhstan,124,246,12,6.8,Asia
+Bahamas,122,176,51,6.3,North America
+St. Vincent & the Grenadines,120,221,11,6.3,North America
+Uruguay,115,35,220,6.6,South America
+Vietnam,111,2,1,2,Asia
+Moldova,109,226,18,6.3,Europe
+Macedonia,106,27,86,3.9,Europe
+Samoa,105,18,24,2.6,Oceania
+Antigua & Barbuda,102,128,45,4.9,North America
+Thailand,99,258,1,6.4,Asia
+Mauritius,98,31,18,2.6,Africa
+Cuba,93,137,5,4.2,North America
+Guyana,93,302,1,7.1,South America
+Equatorial Guinea,92,0,233,5.8,Africa
+Swaziland,90,2,2,4.7,Africa
+Albania,89,132,54,4.9,Europe
+Burundi,88,0,0,6.3,Africa
+Italy,85,42,237,6.5,Europe
+Jamaica,82,97,9,3.4,North America
+Lesotho,82,29,0,2.8,Africa
+China,79,192,8,5,Asia
+Nicaragua,78,118,1,3.5,North America
+Fiji,77,35,1,2,Oceania
+Japan,77,202,16,7,Asia
+Mongolia,77,189,8,4.9,Asia
+Bosnia-Herzegovina,76,173,8,4.6,Europe
+Congo,76,1,9,1.7,Africa
+Philippines,71,186,1,4.6,Asia
+Honduras,69,98,2,3,North America
+Zimbabwe,64,18,4,4.7,Africa
+Israel,63,69,9,2.5,Asia
+Laos,62,0,123,6.2,Asia
+Micronesia,62,50,18,2.3,Oceania
+Singapore,60,12,11,1.5,Asia
+Kenya,58,22,2,1.8,Africa
+Cambodia,57,65,1,2.2,Asia
+Sao Tome & Principe,56,38,140,4.2,Africa
+Solomon Islands,56,11,1,1.2,Oceania
+Guatemala,53,69,2,2.2,North America
+Dominica,52,286,26,6.6,North America
+El Salvador,52,69,2,2.2,North America
+Georgia,52,100,149,5.4,Europe
+Tunisia,51,3,20,1.3,Africa
+Turkey,51,22,7,1.4,Asia
+Nauru,49,0,8,1,Oceania
+Mozambique,47,18,5,1.3,Africa
+Uganda,45,9,0,8.3,Africa
+Papua New Guinea,44,39,1,1.5,Oceania
+Rwanda,43,2,0,6.8,Africa
+Bahrain,42,63,7,2,Asia
+Nigeria,42,5,2,9.1,Africa
+Cote d'Ivoire,37,1,7,4,Africa
+Togo,36,2,19,1.3,Africa
+Tonga,36,21,5,1.1,Oceania
+Tanzania,36,6,1,5.7,Africa
+Benin,34,4,13,1.1,Africa
+DR Congo,32,3,1,2.3,Africa
+Zambia,32,19,4,2.5,Africa
+Brunei,31,2,1,0.6,Asia
+Ghana,31,3,10,1.8,Africa
+Kyrgyzstan,31,97,6,2.4,Asia
+Montenegro,31,114,128,4.9,Europe
+Guinea-Bissau,28,31,21,2.5,Africa
+Madagascar,26,15,4,0.8,Africa
+Algeria,25,0,14,0.7,Africa
+Burkina Faso,25,7,7,4.3,Africa
+Sierra Leone,25,3,2,6.7,Africa
+Uzbekistan,25,101,8,2.4,Asia
+Bhutan,23,0,0,0.4,Asia
+Oman,22,16,1,0.7,Asia
+Armenia,21,179,11,3.8,Europe
+Azerbaijan,21,46,5,1.3,Europe
+Kiribati,21,34,1,1,Oceania
+Vanuatu,21,18,11,0.9,Oceania
+Ethiopia,20,3,0,0.7,Africa
+Lebanon,20,55,31,1.9,Asia
+Liberia,19,152,2,3.1,Africa
+Turkmenistan,19,71,32,2.2,Asia
+Eritrea,18,0,0,0.5,Africa
+Central African Republic,17,2,1,1.8,Africa
+Sri Lanka,16,104,0,2.2,Asia
+United Arab Emirates,16,135,5,2.8,Asia
+Chad,15,1,1,0.4,Africa
+Djibouti,15,44,3,1.1,Africa
+Malaysia,13,4,0,0.3,Asia
+Morocco,12,6,10,0.5,Africa
+Guinea,9,0,2,0.2,Africa
+India,9,114,0,2.2,Asia
+Iraq,9,3,0,0.2,Asia
+Senegal,9,1,7,0.3,Africa
+Gambia,8,0,1,2.4,Africa
+Malawi,8,11,1,1.5,Africa
+Sudan,8,13,0,1.7,Africa
+Egypt,6,4,1,0.2,Africa
+Jordan,6,21,1,0.5,Asia
+Tuvalu,6,41,9,1,Oceania
+Yemen,6,0,0,0.1,Asia
+Indonesia,5,1,0,0.1,Asia
+Mali,5,1,1,0.6,Africa
+Myanmar,5,1,0,0.1,Asia
+Nepal,5,6,0,0.2,Asia
+Syria,5,35,16,1,Asia
+Niger,3,2,1,0.1,Africa
+Tajikistan,2,15,0,0.3,Asia
+Comoros,1,3,1,0.1,Africa
+Haiti,1,326,1,5.9,North America
+Qatar,1,42,7,0.9,Asia
+Timor-Leste,1,1,4,0.1,Asia
+Afghanistan,0,0,0,0,Asia
+Bangladesh,0,0,0,0,Asia
+Cook Islands,0,254,74,5.9,Oceania
+North Korea,0,0,0,0,Asia
+Iran,0,0,0,0,Asia
+Kuwait,0,0,0,0,Asia
+Libya,0,0,0,0,Africa
+Maldives,0,0,0,0,Asia
+Marshall Islands,0,0,0,0,Oceania
+Mauritania,0,0,0,0,Africa
+Monaco,0,0,0,0,Europe
+Pakistan,0,0,0,0,Asia
+San Marino,0,0,0,0,Europe
+Saudi Arabia,0,5,0,0.1,Asia
+Somalia,0,0,0,0,Africa
